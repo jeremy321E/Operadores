@@ -1,0 +1,7 @@
+C:\Users\darwin\source\repos\Deber\bin\Debug\Deber.exe.config
+C:\Users\darwin\source\repos\Deber\bin\Debug\Deber.exe
+C:\Users\darwin\source\repos\Deber\bin\Debug\Deber.pdb
+C:\Users\darwin\source\repos\Deber\obj\Debug\Deber.csproj.AssemblyReference.cache
+C:\Users\darwin\source\repos\Deber\obj\Debug\Deber.csproj.CoreCompileInputs.cache
+C:\Users\darwin\source\repos\Deber\obj\Debug\Deber.exe
+C:\Users\darwin\source\repos\Deber\obj\Debug\Deber.pdb
